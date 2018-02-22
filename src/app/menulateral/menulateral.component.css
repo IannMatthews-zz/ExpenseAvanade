@@ -26,14 +26,14 @@
 }
 
 a :visited {
-    color: #bbb;
+    color: #777;
 }
 
 .menuLateral ul li :hover {
-    color: #999;
+    color: rgb(255, 164, 46);
 }
 
 a {
-    color: #bbb;
+    color: #777;
     text-decoration: none;
 }
