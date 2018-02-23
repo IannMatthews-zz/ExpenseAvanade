@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1080px;
+    padding: 5px;
+    background: gainsboro;
+}
+
+.main-header {
+    width: 1070px;
+    height: 40px;
+    background: orangered;
+}
+
+.logoAvanade img {
+  max-height: 100%;
+}
+
+.logoAvanade {
+    width: 80px;
+    height: 40px;
+}
