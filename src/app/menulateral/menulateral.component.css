@@ -25,12 +25,12 @@
     margin-bottom: 10%;
 }
 
-a :visited {
-    color: #777;
-}
-
 .menuLateral ul li :hover {
     color: rgb(255, 164, 46);
+}
+
+a :visited {
+    color: #777;
 }
 
 a {
