@@ -7,3 +7,12 @@
 .wrap{
     box-sizing: border-box;
 }
+
+a :visited {
+    color: #777;
+}
+
+a {
+    color: #777;
+    text-decoration: none;
+}
