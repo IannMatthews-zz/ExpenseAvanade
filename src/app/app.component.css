@@ -6,10 +6,15 @@
     background: gainsboro;
 }
 
+#fadeHeader {
+    background: linear-gradient(to right, #ff5800, #ffd700);
+}
+
 .main-header {
     width: 1070px;
     height: 40px;
     background: orangered;
+    /* background-image: url("../assets/images/LogoAvanade.png"); */
 }
 
 .logoAvanade img {
